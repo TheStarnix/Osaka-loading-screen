@@ -72,23 +72,16 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"314126.jpg",
-	"1082019-hp6_trailer_9_inferi.jpg",
-	"albus-dumbledore-wallpaper-hogwarts-professors-32797129-1024-768.jpg",
-	"big_1479611048_image.jpg",
-	"C89cQjI.jpg",
-	"DH2_Kingsley_Shacklebolt_Protego.gif",
-	"Dumbledore-Wallpaper-Download.jpg",
-	"Fiendfyre.jpg",
-	"griffindor-garri-potter-garry.jpg",
-	"hogwarts_house_wallpaper___slytherin_by_theladyavatar-d5h48oq.jpg",
-	"image.jpg",
-	"JlIEmMN.jpg",
-	"Running-Through-The-Woods.jpg",
-	"Severus-Snape.jpg",
-	"Severus-Snape-Wallpaper-severus-snape-7998898-1440-900.jpg",
-	"shPPhft.jpg",
-	"w_thumb-1920-556484.jpg"
+	"1.jpg",
+	"2.jpg",
+	"3.jpg",
+	"4.jpg",
+	"5.jpg",
+	"6.jpg",
+	"7.jpg",
+	"8.jpg",
+	"9.jpg",
+	"10.jpg",
 ];
 
 // (Image-background only)
@@ -127,11 +120,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "Courtyard Apocalypse.ogg", name: "Courtyard Apocalypse"},
-	{ogg: "hidden citizen.ogg", name: "Hidden Citizen"},
-	{ogg: "ashamaluevmusic.ogg", name: "AShamaluevMusic"},
-	{ogg: "dragon-castle.ogg", name: "Dragon Castle"},
-	{ogg: "jacob.ogg", name: "Jacob's Bakery"}
+	{ogg: "2.ogg", name: "Inside The Case I FB"},
+	{ogg: "3.ogg", name: "Rooftop Chase I FB"},
+	{ogg: "1.ogg", name: "AShamaluevMusic"},
+	{ogg: "4.ogg", name: "Jacob's Bakery"}
 ];
 
 // Random music order?
@@ -140,7 +132,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 10;
+var l_musicVolume = 20;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -148,21 +140,18 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"N’aie pas pitié des morts Harry, aie pitié des vivants et en particulier de tous ceux qui vivent sans amour.",
-	"Dans le monde il n’y a pas d’un côté le bien et le mal, il y a une part de lumière et d’ombre en chacun de nous. Ce qui compte c’est celle que l’on choisit de montrer dans nos actes, ça c’est ce que l’on est vraiment.",
-	"- Est-ce que ça fait mal de mourir ? - C’est plus rapide que de s’endormir.",
-	"Il faut du courage pour affronter ses ennemis mais il en faut encore plus pour affronter ses amis…",
+	"Il n’y a pas d’étranges créatures, seulement des gens ignorants.",
+	"Être désavoué par des lâches fait la grandeur des braves.",
+	"On vous donne à peine 375 ans…",
+	"J’ai pour philosophie que s’inquiéter, c’est souffrir deux fois.",
 	"Je jure solennellement que mes intentions sont mauvaises.",
 	"Mais vous savez, on peut trouver du bonheur même dans les endroits les plus sombres. Il suffit de se souvenir d’allumer la lumière.",
 	"J’ai toujours été fier du talent que je possède pour tourner des phrases. Et les mots sont à mon avis, qui n’est pas si humble, notre plus inépuisable source de magie. Ils peuvent à la fois infliger des blessures et y porter remède.",
 	"Quand nous rêvons, nous entrons dans un monde qui n’appartient qu’à nous. ",
 	"Pour un esprit équilibré, la mort n’est qu’une grande aventure de plus. ",
-	"Tu as les yeux de ta mère.",
 	"Les choses finissent toujours pas revenir, mais pas toujours de la manière qu’on croit.",
 	"Tu n’es pas quelqu’un de mauvais. Tu es quelqu’un de bon à qui il est arrivé de mauvaises choses. ",
-	"J’ai lu dans ton cœur, et ton cœur est mien.",
 	"La parole d’un enfant aussi sincère soit-elle n’a pas de sens pour qui ne sait pas écouter.",
-	"C’est vous le faible et vous ne connaîtrez jamais l’amour ni l’amitié. Et je vous plains.",
 	"Tout homme s’enrichit quand abonde l’esprit."
 ];
 
