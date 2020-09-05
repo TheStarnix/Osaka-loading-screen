@@ -11,6 +11,13 @@
     font-style: normal;
 }
 
+@font-face {
+	font-family: 'Fantastic';
+	src: url("fonts/Fantastic.ttf") format('truetype');
+	font-weight: normal;
+    font-style: normal;
+}
+
 /* Youtube */
 #player {
 	position: absolute;
@@ -24,7 +31,6 @@ body, html {
 }
 
 body {
-	font-family: 'Quicksand';
 	-webkit-font-smoothing: antialiased;
 	font-size: 16px;
 	text-shadow: 1px 1px 0px rgb(0, 0, 0);
@@ -67,11 +73,12 @@ video {
 	display: block;
 }
 
-#gamemode, #map {
+#gamemode {
 	font-weight: bold;
 }
 
 #status-container {
+	font-family: 'Quicksand';
 	position: absolute;
 	height: 50px;
 	width: 100%;
@@ -103,12 +110,14 @@ video {
 }
 
 #subtitle {
-	font-size: 30px;
+	font-family: 'Fantastic';
+	font-size: 50px;
 	margin-left: 12px;
 	display: none;
 }
 
 #music {
+	font-family: 'Quicksand';
 	position: absolute;
 	left: 0; bottom: 0;
 	margin: 12px;
@@ -117,6 +126,7 @@ video {
 }
 
 #music-name {
+	font-family: 'Quicksand';
 	position: relative;
 	font-weight: bold;
 	margin-top: 6px;
@@ -131,6 +141,7 @@ video {
 }
 
 #enable-audio {
+	font-family: 'Quicksand';
 	position: absolute;
 	left: 0; bottom: 0;
 	margin: 12px;
