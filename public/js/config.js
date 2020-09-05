@@ -145,9 +145,9 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"L'expansion de la magie est un serveur basé sur l'univers de la magie.",
 	"Le serveur est situé dans les années 1950 à Londres.",
-	"Retrouvez-donc pleins d'animaux fantastiques d'exceptions et",
-	"Vous souhaitez chnager le monde et le rendre protégé ? Rejoignez le ministère.",
-	"Vous souhazitez éliminer les sorciers 'impurs' ? Rejoignez le culte de salem ou le groupe de Grindelwald !",
+	"Retrouvez-donc pleins d'animaux fantastiques d'exceptions !",
+	"Vous souhaitez changer le monde et le rendre protégé ? Rejoignez le ministère.",
+	"Vous souhaitez éliminer les sorciers 'impurs' ? Rejoignez le culte de salem ou le groupe de Grindelwald !",
 	"Il n’y a pas d’étranges créatures, seulement des gens ignorants.",
 	"Être désavoué par des lâches fait la grandeur des braves.",
 	"On vous donne à peine 375 ans…",
