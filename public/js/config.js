@@ -122,10 +122,11 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "2.ogg", name: "Inside The Case I FB"},
+	{ogg: "2.ogg", name: "The Forest"},
 	{ogg: "3.ogg", name: "Rooftop Chase I FB"},
 	{ogg: "1.ogg", name: "AShamaluevMusic"},
-	{ogg: "4.ogg", name: "Jacob's Bakery"}
+	{ogg: "4.ogg", name: "Jacob's Bakery"},
+	{ogg: "5.ogg", name: "A Wrench In The Works I WD"}
 ];
 
 // Random music order?
@@ -142,6 +143,11 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
+	"L'expansion de la magie est un serveur basé sur l'univers de la magie."
+	"Le serveur est situé dans les années 1950 à Londres."
+	"Retrouvez-donc pleins d'animaux fantastiques d'exceptions et"
+	"Vous souhaitez chnager le monde et le rendre protégé ? Rejoignez le ministère."
+	"Vous souhazitez éliminer les sorciers 'impurs' ? Rejoignez le culte de salem ou le groupe de Grindelwald !"
 	"Il n’y a pas d’étranges créatures, seulement des gens ignorants.",
 	"Être désavoué par des lâches fait la grandeur des braves.",
 	"On vous donne à peine 375 ans…",
@@ -159,7 +165,7 @@ var l_messages = [
 
 // Random message order?
 // 'true' or 'false'
-var l_messagesRandom = true;
+var l_messagesRandom = false;
 
 // Delay between message changes
 // in milliseconds
