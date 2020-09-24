@@ -12,8 +12,8 @@
 }
 
 @font-face {
-	font-family: 'Fantastic';
-	src: url("fonts/Fantastic.ttf") format('truetype');
+	font-family: 'Nalalanda';
+	src: url("fonts/Nalalanda.ttf") format('truetype');
 	font-weight: normal;
     font-style: normal;
 }
@@ -110,7 +110,7 @@ video {
 }
 
 #subtitle {
-	font-family: 'Fantastic';
+	font-family: 'Nalalanda';
 	font-size: 50px;
 	margin-left: 12px;
 	display: none;

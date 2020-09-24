@@ -81,8 +81,8 @@ var l_bgImages = [
 	"7.jpg",
 	"8.jpg",
 	"9.jpg",
-	"10.jpg",
-	"11.jpeg",
+	"10.jpeg",
+	"11.jpg",
 	"12.jpg",
 ];
 
@@ -122,11 +122,11 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "2.ogg", name: "The Forest"},
-	{ogg: "3.ogg", name: "Rooftop Chase I FB"},
-	{ogg: "1.ogg", name: "AShamaluevMusic"},
-	{ogg: "4.ogg", name: "Jacob's Bakery"},
-	{ogg: "5.ogg", name: "A Wrench In The Works I WD"},
+	{ogg: "2.ogg", name: "Aogiri theme Tokyo Ghoul"},
+	{ogg: "3.ogg", name: "Das erste Kapitel Tokyo Ghoul"},
+	{ogg: "1.ogg", name: "SWARM Savior"},
+	{ogg: "4.ogg", name: "Death Mask Devilman Crybaby"},
+	{ogg: "5.ogg", name: "Auferstehung 0 Tokyo Ghoul"},
 ];
 
 // Random music order?
@@ -143,24 +143,24 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"L'expansion de la magie est un serveur basé sur l'univers de la magie.",
-	"Le serveur est situé dans les années 1950 à Londres.",
-	"Retrouvez-donc pleins d'animaux fantastiques d'exceptions !",
-	"Vous souhaitez changer le monde et le rendre protégé ? Rejoignez le ministère.",
-	"Vous souhaitez éliminer les sorciers 'impurs' ? Rejoignez le culte de salem ou le groupe de Grindelwald !",
-	"Il n’y a pas d’étranges créatures, seulement des gens ignorants.",
-	"Être désavoué par des lâches fait la grandeur des braves.",
-	"On vous donne à peine 375 ans…",
-	"J’ai pour philosophie que s’inquiéter, c’est souffrir deux fois.",
-	"Je jure solennellement que mes intentions sont mauvaises.",
-	"Mais vous savez, on peut trouver du bonheur même dans les endroits les plus sombres. Il suffit de se souvenir d’allumer la lumière.",
-	"J’ai toujours été fier du talent que je possède pour tourner des phrases. Et les mots sont à mon avis, qui n’est pas si humble, notre plus inépuisable source de magie. Ils peuvent à la fois infliger des blessures et y porter remède.",
-	"Quand nous rêvons, nous entrons dans un monde qui n’appartient qu’à nous. ",
-	"Pour un esprit équilibré, la mort n’est qu’une grande aventure de plus. ",
-	"Les choses finissent toujours pas revenir, mais pas toujours de la manière qu’on croit.",
-	"Tu n’es pas quelqu’un de mauvais. Tu es quelqu’un de bon à qui il est arrivé de mauvaises choses. ",
-	"La parole d’un enfant aussi sincère soit-elle n’a pas de sens pour qui ne sait pas écouter.",
-	"Tout homme s’enrichit quand abonde l’esprit."
+	"Le Réveil D'Osaka est un serveur Serious Roleplay où l'univers de Tokyo Ghoul est mis en avant.",
+	"Jouez en tant que Goule, Humain ou encore membre du Centre du Contrôle des Goules!",
+	"Vous pouvez disposer d'un double Roleplay, c'est-à-dire d'un RP Goule et CCG.",
+	"Si on écrivait une histoire avec moi comme personnage principal... Cette histoire serait à coup sûr... Une tragédie.",
+	"La tristesse n'est pas dans l'absence de vengeance...La vrai tristesse...C'est d'être prisonnier de son désir de vengeance au point d'oublier de vivre sa vie.",
+	"J'en ai la chair de poule quand elle caresse ma douleur. Son amour me fait mal à m'en mordre le coeur.",
+	"Faire ce que l'on aime est le droit des puissants.",
+	"Je ne suis jamais seule parce que la solitude est toujours avec moi.",
+	"Oui... Nec possum... tecum vivere... nec sine te.Je ne peux ni vivre avec toi... ni vivre sans toi. Comme chacun a sa façon de penser, c'est parfois... difficile de se comprendre.",
+	"Selon moi... Si le monde est injuste, c'est parce qu'il est sali... Par chacune des créatures qui le hantent.",
+	"On doit savoir fuir! Que cela nous plaise ou non! Rester en vie, c'est garder la possibilité de gagner.",
+	"Tranchée en plein vol. Elle tombe l'aile du papillon. Blanche et anonyme.",
+	"Je voudrais être un poignard pour faire couler ton sang comme tu as fais couler mes larmes.",
+	"Pour un esprit équilibré, la mort n’est qu’une grande aventure de plus.",
+	"Ce n'est pas moi qui suis erroné. Ce qui est erroné c'est ce monde.",
+	"Vous riez de moi car je suis différent. Mais moi je ris car vous êtes tous les mêmes.",
+	"Quand tu réalises que ton propre avenir est en merde, il ne te reste plus qu'à vivre pour quelqu'un d'autre.",
+	"Nous n'avons que deux choix dans la vie, vivre en incarnant la beauté ou vivre pour ceux qui l'incarne."
 ];
 
 // Random message order?
