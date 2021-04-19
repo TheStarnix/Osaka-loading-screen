@@ -81,7 +81,6 @@ var l_bgImages = [
 	"7.jpg",
 	"8.jpg",
 	"9.jpg",
-	"10.jpg",
 	"11.jpg",
 	"12.jpg",
 	"13.jpg"
@@ -123,11 +122,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "2.ogg", name: "Alice In Borderland - Générique"},
-	{ogg: "3.ogg", name: "Max Brhon - Cyberpunk"},
-	{ogg: "1.ogg", name: "CloZee - Secret Place"},
-	{ogg: "4.ogg", name: "Autumn in Osaka - Vens Adams"},
-	{ogg: "5.ogg", name: "CloZee - Koto"},
+	{ogg: "5.ogg", name: "CloZee - Koto"}
 ];
 
 // Random music order?
