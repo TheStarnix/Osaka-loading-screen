@@ -81,9 +81,10 @@ var l_bgImages = [
 	"7.jpg",
 	"8.jpg",
 	"9.jpg",
-	"10.jpeg",
+	"10.jpg",
 	"11.jpg",
 	"12.jpg",
+	"13.jpg"
 ];
 
 // (Image-background only)
@@ -122,11 +123,11 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "2.ogg", name: "Aogiri theme Tokyo Ghoul"},
-	{ogg: "3.ogg", name: "Das erste Kapitel Tokyo Ghoul"},
-	{ogg: "1.ogg", name: "SWARM Savior"},
-	{ogg: "4.ogg", name: "Death Mask Devilman Crybaby"},
-	{ogg: "5.ogg", name: "Auferstehung 0 Tokyo Ghoul"},
+	{ogg: "2.ogg", name: "Alice In Borderland - Générique"},
+	{ogg: "3.ogg", name: "Max Brhon - Cyberpunk"},
+	{ogg: "1.ogg", name: "CloZee - Secret Place"},
+	{ogg: "4.ogg", name: "Autumn in Osaka - Vens Adams"},
+	{ogg: "5.ogg", name: "CloZee - Koto"},
 ];
 
 // Random music order?
@@ -146,26 +147,27 @@ var l_messages = [
 	"Le Réveil D'Osaka est un serveur Serious Roleplay où l'univers de Tokyo Ghoul est mis en avant.",
 	"Jouez en tant que Goule, Humain ou encore membre du Centre du Contrôle des Goules!",
 	"Vous pouvez disposer d'un double Roleplay, c'est-à-dire d'un RP Goule et CCG.",
-	"Si on écrivait une histoire avec moi comme personnage principal... Cette histoire serait à coup sûr... Une tragédie.",
-	"La tristesse n'est pas dans l'absence de vengeance...La vrai tristesse...C'est d'être prisonnier de son désir de vengeance au point d'oublier de vivre sa vie.",
-	"J'en ai la chair de poule quand elle caresse ma douleur. Son amour me fait mal à m'en mordre le coeur.",
-	"Faire ce que l'on aime est le droit des puissants.",
-	"Je ne suis jamais seule parce que la solitude est toujours avec moi.",
-	"Oui... Nec possum... tecum vivere... nec sine te.Je ne peux ni vivre avec toi... ni vivre sans toi. Comme chacun a sa façon de penser, c'est parfois... difficile de se comprendre.",
-	"Selon moi... Si le monde est injuste, c'est parce qu'il est sali... Par chacune des créatures qui le hantent.",
-	"On doit savoir fuir! Que cela nous plaise ou non! Rester en vie, c'est garder la possibilité de gagner.",
-	"Tranchée en plein vol. Elle tombe l'aile du papillon. Blanche et anonyme.",
-	"Je voudrais être un poignard pour faire couler ton sang comme tu as fais couler mes larmes.",
-	"Pour un esprit équilibré, la mort n’est qu’une grande aventure de plus.",
-	"Ce n'est pas moi qui suis erroné. Ce qui est erroné c'est ce monde.",
-	"Vous riez de moi car je suis différent. Mais moi je ris car vous êtes tous les mêmes.",
-	"Quand tu réalises que ton propre avenir est en merde, il ne te reste plus qu'à vivre pour quelqu'un d'autre.",
-	"Nous n'avons que deux choix dans la vie, vivre en incarnant la beauté ou vivre pour ceux qui l'incarne."
+	"La seule chose à savoir gamin, c'est que les faibles seront toujours dominés. ",
+	"Les Clowns auront toujours le dernier rire, n'est ce pas ? ",
+	"Si tu restes faibles, tu resteras dans les bas fonds.",
+	"Être puissant, ce n'est pas gagner des batailles, c'est aussi semer le vice.",
+	"Si tu goûtes au fruit défendu des 'goules', je te ferai juger sans aucun regrets.",
+	"Entre prôner la paix et faire couler le sang, que faire pour choisir ?",
+	"Nous devons dominer pour prôner nos idéaux.",
+	"Protéger notre espèce, c'est lutter contre le mal humain.",
+	"Vouloir défendre est un fait, agir est le résultat de notre volonté.",
+	"Il n'y a pas de 'justice' à faire couler le sang des innocents.",
+	"Se racheter et la plus belle preuve de rédemption.",
+	"Mon rêve serait d'être égaux aux humains, sans jugement et sans crainte d'être chassé.",
+	"Eve a croqué le fruit 'défendu', pourquoi nous pourrions pas faire de même avec notre chaire?",
+	"Le met le plus exquis est celui qui est le plus rare: les Borgnes, sans aucun doute.",
+	"Je me réjouie de constater que les pauvres rêvent de leur idéal, pendant que nous vivons nos rêves sous leurs yeux.",
+	"La 'noblesse' est une chose si délicate... Et tu penses ne serait-ce qu'une seule seconde en faire partie? Pauvre idiot."
 ];
 
 // Random message order?
 // 'true' or 'false'
-var l_messagesRandom = false;
+var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
